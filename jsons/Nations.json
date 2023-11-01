@@ -23,7 +23,7 @@
 		"innerColor": [83, 0, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+1000]% Strength <for [All] units>", "[+100] Movement <for [All] units>", "[500] Free Technologies", "[+5000 Production] in all cities", "Provides [100] [Uranium]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+1000]% Strength <for [All] units>", "[+100] Movement <for [All] units>", "[500] Free Technologies", "[+5000]% [Production]", "Provides [100] [Uranium]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
